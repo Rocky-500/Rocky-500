@@ -7,12 +7,11 @@ Welcome to my GitHub profile! I'm Siddhant Zolage, currently a third-year B.Tech
 ### About Me
 
 - 📚 Currently pursuing B.Tech in Computer Science
-- 🌐 [LinkedIn](https://www.linkedin.com/in/siddhant-zolage)
-- 📧 Contact me at: [zolagesiddhant@gmail.com]
-- 😄 Pronouns: he/him
+- 🌐 LinkedIn: https://www.linkedin.com/in/siddhant-zolage
+- 🐦 Twitter: https://twitter.com/Siddhant_Zolage
+- 📧 Contact me at: zolagesiddhant@gmail.com
 
 ### Projects
-
 
 #### Web Development Projects:
 
@@ -53,17 +52,13 @@ Welcome to my GitHub profile! I'm Siddhant Zolage, currently a third-year B.Tech
 8. ATM System (C++)
    - A console-based ATM System implemented in C++ with Object-Oriented Programming concepts.
    - https://github.com/Rocky-500/ATM-System
+     
 
 ### Technologies I Love
 
 - C++
 - Python
 - HTML CSS & Javascript
-
-### Connect with Me
-
-- 💼 LinkedIn - https://www.linkedin.com/in/siddhant-zolage
-- 🐦 Twitter - https://twitter.com/Siddhant_Zolage
 
 ### Contributions
 
